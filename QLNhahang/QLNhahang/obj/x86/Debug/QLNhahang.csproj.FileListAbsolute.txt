@@ -1,9 +1,0 @@
-C:\Users\ACER\Desktop\QLNhahang\QLNhahang\bin\Debug\QLNhahang.exe
-C:\Users\ACER\Desktop\QLNhahang\QLNhahang\bin\Debug\QLNhahang.pdb
-C:\Users\ACER\Desktop\QLNhahang\QLNhahang\obj\x86\Debug\QLNhahang.csprojResolveAssemblyReference.cache
-C:\Users\ACER\Desktop\QLNhahang\QLNhahang\obj\x86\Debug\QLNhahang.FrmMain.resources
-C:\Users\ACER\Desktop\QLNhahang\QLNhahang\obj\x86\Debug\QLNhahang.FrmQuanly.resources
-C:\Users\ACER\Desktop\QLNhahang\QLNhahang\obj\x86\Debug\QLNhahang.Properties.Resources.resources
-C:\Users\ACER\Desktop\QLNhahang\QLNhahang\obj\x86\Debug\QLNhahang.csproj.GenerateResource.Cache
-C:\Users\ACER\Desktop\QLNhahang\QLNhahang\obj\x86\Debug\QLNhahang.exe
-C:\Users\ACER\Desktop\QLNhahang\QLNhahang\obj\x86\Debug\QLNhahang.pdb
